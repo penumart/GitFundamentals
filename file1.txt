@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Adding yet more code.
+=======
+Fix1
+>>>>>>> 2ce6467... Added fix1
